@@ -11,7 +11,7 @@ It helps you quickly connect, create tables, and insert data without writing eve
 
 ## ⚙️ Requirements
 
-* Python 3.x
+* Python 3.13.1
 * Pandas
 * SQLAlchemy (or MySQL connector / PostgreSQL connector depending on your DB)
 
